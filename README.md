@@ -1,4 +1,4 @@
-# About this repo
+# Raspberry Pi Pico We USB demo
 
 Builds the tinyusb webusb demo for Raspberry Pi Pico.
 
@@ -8,7 +8,7 @@ Builds the tinyusb webusb demo for Raspberry Pi Pico.
 ```bash
 # 1. Create a build directory
 
-mkdir build ; cd build`
+mkdir build ; cd build
 
 
 # 2. Clone pico-sdk
