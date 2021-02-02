@@ -17,7 +17,7 @@ target_include_directories(hello_webusb PRIVATE
 # Pull in our pico_stdlib which aggregates commonly used features
 target_link_libraries(hello_webusb
     pico_stdlib
-    tinyusb_device_unmarked
+    tinyusb_device
 )
 
 # create map/bin/hex/uf2 file etc.
