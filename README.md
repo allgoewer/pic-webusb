@@ -1,4 +1,4 @@
-# Raspberry Pi Pico We USB demo
+# Raspberry Pi Pico WebUSB demo
 
 Builds the tinyusb webusb demo for Raspberry Pi Pico.
 
