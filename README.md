@@ -19,5 +19,5 @@ git clone https://github.com/raspberrypi/pico-sdk
 
 # 3. cmake & build  
 
-cmake -DPICO_SDK_PATH .. && make
+cmake -DPICO_SDK_PATH=pico-sdk .. && make
 ```
